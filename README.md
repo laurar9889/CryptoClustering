@@ -7,7 +7,7 @@ Use the StandardScaler() module from scikit-learn to normalize the data from the
 
 Create a DataFrame with the scaled data and set the "coin_id" index from the original DataFrame as the index for the new DataFrame.
 
-The first five rows of the scaled DataFrame should appear as follows:
+The first five rows of the scaled DataFrame appear as follows:
 ![image](https://github.com/user-attachments/assets/22a13427-4b8d-4516-b711-e19504be2d8d)
 
 Find the Best Value for k Using the Original Scaled DataFrame
